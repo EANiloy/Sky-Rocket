@@ -1,0 +1,1 @@
+This small game was created as part of a course project. The models, animations and sound effects belong to the original owner and is used only for educational purpose.
